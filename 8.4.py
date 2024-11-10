@@ -1,4 +1,7 @@
-fname = input("Enter file name: ")
+## Justin Spencer Smith
+## November 09, 2024
+## SITD
+
 fh = open(fname)
 lst = list()
 
